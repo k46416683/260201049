@@ -1,8 +1,14 @@
-a=int(input('please write number'))
-odd=0
-for i in range(a):
-  b=int(input('please write your number'))
-  if b%2==1:
-    odd+=1
-print(odd)    
-print((odd/a)*100,'%')    
+password='abc123'
+
+while True:
+  entered_password=input('enter password')
+  if password==entered_password:
+    print('welcome')
+    break
+  elif entered_password=='help':
+    print(password[0])
+  else:
+    print('wrong password')  
+
+
+  

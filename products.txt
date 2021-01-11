@@ -1,0 +1,4 @@
+1:mont:500
+2:ayakkabı:300
+3:gitar:1000
+4:şapka:350

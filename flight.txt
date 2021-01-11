@@ -1,0 +1,7 @@
+20.12.2018;Istanbul-Ankara;12:15;01:15
+20.12.2018;Istanbul-Antalya;12:25;01:15
+20.12.2018;Istanbul-Erzurum;13:15;01:45
+20.12.2018;Istanbul-Bursa;14:45;00:45
+20.12.2018;Istanbul-Malatya;15:00;01:30
+20.12.2018;Istanbul-Ankara;21:15;01:15
+20.12.2018;Istanbul-Ankara;23:30;01:15
